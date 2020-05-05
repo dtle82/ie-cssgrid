@@ -10,17 +10,21 @@
   <style>
     .grid {
       display: -ms-grid;
+      grid-template-areas:
+      "a a"
+      "b c";
     }
     #bm1 {
       -ms-grid-row:1;
       -ms-grid-column:1;
       -ms-grid-column-span:2;
+      grid: a;
     }
     .title {
-
+      grid: b;
     }
     .paragraph {
-
+      grid: c;
     }
   </style>
 </head>

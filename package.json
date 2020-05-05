@@ -1,0 +1,22 @@
+{
+  "name": "ie-cssgrid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dtle82/ie-cssgrid.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dtle82/ie-cssgrid/issues"
+  },
+  "homepage": "https://github.com/dtle82/ie-cssgrid#readme",
+  "dependencies": {
+    "http-server": "^0.12.3"
+  }
+}
